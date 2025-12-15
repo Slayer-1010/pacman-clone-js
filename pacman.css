@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+#board {
+    background-color: black;
+}
+
+.header {
+    width: 100%;
+    padding: 1px;
+     /* black like Pac-Man maze */
+    font-weight: bold;
+}
